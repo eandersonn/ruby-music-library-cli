@@ -27,4 +27,8 @@ class Genre
         genre
     end
 
+    def MusicImporter
+
+    end
+
 end
