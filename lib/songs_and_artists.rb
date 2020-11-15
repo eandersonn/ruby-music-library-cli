@@ -1,13 +1,9 @@
-class Artist
+class Associations
 
-    songs = []
+    @song = []
 
     def initialize(songs)
-    @songs = songs
-    end
-
-    def songs
-        songs
+    @song = song
     end
 
 end
